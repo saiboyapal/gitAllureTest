@@ -10,6 +10,8 @@
 	<test name="Allure Report Test">
 		<classes>
 			<class name="com.crm.qa1.tests.loginPageTest" />
+			<class name="com.crm.qa1.tests.HomePageTest" />
+			<class name="com.crm.qa1.tests.ContactsPageTest" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
