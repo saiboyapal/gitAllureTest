@@ -39,8 +39,6 @@ gradle/
 */out/
 
 # project
-drivers/
-*/src/main/resources/webDrivers*
 */src/test/_screenshots/*.png
 gradlew
 gradlew.bat
